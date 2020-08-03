@@ -22,3 +22,8 @@ Create an IBM Cloud Functions web action that allows Watson Assistant to post qu
 Build a web application with integration to all these services & deploy the same on IBM Cloud Platform.
 
 In Watson Discovery I have added ecobee3_userguide.
+
+Node_Red Dasboard link after deploying : https://node-red-vqivh.eu-gb.mybluemix.net/ui
+
+Preview link of Watson Assistant : https://eu-gb.assistant.watson.cloud.ibm.com/eu-gb/crn:v1:bluemix:public:conversation:eu-gb:a~2F0d1fb70035ce4af6bec992d78e38057e:4846548c-dbfd-4009-9201-dd16b71e6093::/skills/ac7dff0a-cdf3-4def-9c05-5f563fd96679/build/intents
+Have a casual talks about availability_of_flight, booking a flight, check_status_of_a_flight like What is status of AA 456,etc.
